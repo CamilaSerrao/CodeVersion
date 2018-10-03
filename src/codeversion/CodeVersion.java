@@ -17,6 +17,7 @@ public class CodeVersion {
     public static void main(String[] args) {
         System.out.println("codigo versão 1.0");
          System.out.println("oi do git");
+         System.out.println("oi do netbeans");
     }
     
 }
